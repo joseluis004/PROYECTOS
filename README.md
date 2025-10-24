@@ -32,8 +32,21 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 
 
 ### 📊 Datos y Resultados
-- **Datos crudos**: `data/datos_crudos.csv`
-- **Resultados procesados**: `data/resultados_finales.xlsx`
-- **Configuración**: `config/parametros.json`
+
+#### 🔬 Datos Experimentales Crudos
+- **Co-60**:  [📄 Ver csv](https://github.com/joseluis004/PROYECTOS/blob/main/espectro_Co60.csv) - Espectro gamma de Cobalto-60
+- **Cs-137**: [📄 Ver csv](https://github.com/joseluis004/PROYECTOS/blob/main/espectro_Cs60.csv) - Espectro gamma de Cesio-137
+- **Zn-65**: [📄 Ver csv](https://github.com/joseluis004/PROYECTOS/blob/main/espectro_Zn65.csv) - Espectro gamma de Zinc-65
+
+
+#### 🔬 Memoria Científica Completa
+- **`memoria/ memoria_experimento.pdf`** - Documento completo con:
+  - ✅ Introducción y objetivos
+  - ✅ Fundamentos teóricos (espectrometría gamma, radioisótopos)
+  - ✅ Metodología experimental
+  - ✅ Resultados y análisis de datos
+  - ✅ Discusión de resultados
+  - ✅ Conclusiones y aplicaciones
+
 
 ## 🏗️ Estructura del Proyecto

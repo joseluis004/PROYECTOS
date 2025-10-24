@@ -1,0 +1,1 @@
+nombre-carpeta/archivo-temporal.txt

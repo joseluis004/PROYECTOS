@@ -14,7 +14,7 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 |-----------|----------|----------------|-----------|
 | **Informe Co-60** | 2024 | Análisis completo de datos Cobalto-60 | [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20co-60%20log%20bueno.pdf) |
 | **Datos Cs-137** | 2024 | Resultados experimentales Cesio-137 | [📊 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Primera%20medici%C3%B3n%20cs-137.pdf) |
-| **Estudio Zn-65** | 2024 | Investigación Zinc-65 | [📈 Ver PDF]() |
+| **Estudio Zn-65** | 2024 | Investigación Zinc-65 | [📈 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20zn-65%20log.pdf) |
 | **Resultados Comparativos** | 2024 | Análisis comparativo entre isótopos | [📋 Ver PDF](Data report zn-65 log.pdf) |
 
 

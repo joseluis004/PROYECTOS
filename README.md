@@ -12,10 +12,11 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 
 | Documento | 📅 Fecha | 📝 Descripción | 🔗 Enlace |
 |-----------|----------|----------------|-----------|
-| **Informe Co-60** | 2024 | Análisis completo de datos Cobalto-60 | [📄 Ver PDF](pdfs/informe-co60.pdf) |
-| **Datos Cs-137** | 2024 | Resultados experimentales Cesio-137 | [📊 Ver PDF](pdfs/datos-cs137.pdf) |
+| **Informe Co-60** | 2024 | Análisis completo de datos Cobalto-60 | [📄 Ver PDF](Data report co-60 log bueno.pdf) |
+| **Datos Cs-137** | 2024 | Resultados experimentales Cesio-137 | [📊 Ver PDF](Primera medición cs-137.pdf) |
 | **Estudio Zn-65** | 2024 | Investigación Zinc-65 | [📈 Ver PDF](pdfs/estudio-zn65.pdf) |
-| **Resultados Comparativos** | 2024 | Análisis comparativo entre isótopos | [📋 Ver PDF](pdfs/comparativa.pdf) |
+| **Resultados Comparativos** | 2024 | Análisis comparativo entre isótopos | [📋 Ver PDF](Data report zn-65 log.pdf) |
+
 
 ### 🔬 Métodos de Análisis
 

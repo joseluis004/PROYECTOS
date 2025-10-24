@@ -28,7 +28,7 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 ## 🛠️ Herramientas y Scripts
 
 ### 🔧 Código de Análisis
-- **Procesamiento de datos, Análisis estadístic y Generación de gráficos**: [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Analisis_de_espectros-optimized.ipynb)
+- **Procesamiento de datos, Análisis estadístic y Generación de gráficos**: [📄 Ver código](https://github.com/joseluis004/PROYECTOS/blob/main/Analisis_de_espectros-optimized.ipynb)
 
 
 ### 📊 Datos y Resultados

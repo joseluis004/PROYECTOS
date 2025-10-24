@@ -28,10 +28,8 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 ## 🛠️ Herramientas y Scripts
 
 ### 🔧 Código de Análisis
-- **Procesamiento de datos**: `src/procesamiento_datos.py`
-- **Análisis estadístico**: `src/analisis_estadistico.py` 
-- **Generación de gráficos**: `src/visualizacion.py`
-- **Control de calidad**: `src/control_calidad.py`
+- **Procesamiento de datos, Análisis estadístic y Generación de gráficos**: [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Analisis_de_espectros-optimized.ipynb)
+
 
 ### 📊 Datos y Resultados
 - **Datos crudos**: `data/datos_crudos.csv`

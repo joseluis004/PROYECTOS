@@ -15,7 +15,6 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 | **Datos Software Co-60** | 2025 | Análisis completo de datos Cobalto-60 | [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20co-60%20log%20bueno.pdf) |
 | **Datos Software Cs-137** | 2025 | Resultados experimentales Cesio-137 | [📊 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Primera%20medici%C3%B3n%20cs-137.pdf) |
 | **Datos Software Zn-65** | 2025 | Investigación Zinc-65 | [📈 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20zn-65%20log.pdf) |
-| **Resultados Comparativos** | 2025 | Análisis comparativo entre isótopos | [📋 Ver PDF](Data report zn-65 log.pdf) |
 
 
 ### 🔬 Métodos de Análisis
@@ -28,7 +27,7 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 ## 🛠️ Herramientas y Scripts
 
 ### 🔧 Código de Análisis
-- **Procesamiento de datos, Análisis estadístic y Generación de gráficos**: [📄 Ver código](https://github.com/joseluis004/PROYECTOS/blob/main/Analisis_de_espectros-optimized.ipynb)
+- **Procesamiento de datos, Análisis estadístico y Generación de gráficos**: [📄 Ver código](https://github.com/joseluis004/PROYECTOS/blob/main/Analisis_de_espectros-optimized.ipynb)
 
 
 ### 📊 Datos y Resultados
@@ -47,6 +46,3 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
   - ✅ Resultados y análisis de datos
   - ✅ Discusión de resultados
   - ✅ Conclusiones y aplicaciones
-
-
-## 🏗️ Estructura del Proyecto

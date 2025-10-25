@@ -1,6 +1,5 @@
 # 🔬 Proyectos de Investigación Científica
 
-![Banner](https://via.placeholder.com/1200x300/0D8BF2/FFFFFF?text=Análisis+de+Radioisótopos+Co-60+Cs-137+Zn-65)
 
 ## 📋 PRÁCTICA 3: ESPECTROSCOPIA NUCLEAR AVANZADA
 
@@ -12,9 +11,9 @@ Investigación integral sobre el análisis y comportamiento de radioisótopos (C
 
 | Documento | 📅 Fecha | 📝 Descripción | 🔗 Enlace |
 |-----------|----------|----------------|-----------|
-| **Datos Software Co-60** | 2025 | Resultados experimentales Cobalto-60 | [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20co-60%20log%20bueno.pdf) |
-| **Datos Software Cs-137** | 2025 | Resultados experimentales Cesio-137 | [📊 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Primera%20medici%C3%B3n%20cs-137.pdf) |
-| **Datos Software Zn-65** | 2025 | Resultados experimentales Zinc-65 | [📈 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/Data%20report%20zn-65%20log.pdf) |
+| **Datos Software Co-60** | 2025 | Resultados experimentales Cobalto-60 | [📄 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/pdfs/Data%20report%20co-60%20log%20bueno.pdf) |
+| **Datos Software Cs-137** | 2025 | Resultados experimentales Cesio-137 | [📊 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/pdfs/Primera%20medici%C3%B3n%20cs-137.pdf) |
+| **Datos Software Zn-65** | 2025 | Resultados experimentales Zinc-65 | [📈 Ver PDF](https://github.com/joseluis004/PROYECTOS/blob/main/pdfs/Data%20report%20zn-65%20log.pdf) |
 
 
 ### 🔬 Métodos de Análisis

@@ -2,7 +2,7 @@
 
 ![Banner](https://via.placeholder.com/1200x300/0D8BF2/FFFFFF?text=Análisis+de+Radioisótopos+Co-60+Cs-137+Zn-65)
 
-## 📋 Sobre este Proyecto
+## 📋 PRÁCTICA 3: ESPECTROSCOPIA NUCLEAR AVANZADA
 
 Investigación integral sobre el análisis y comportamiento de radioisótopos (Cobalto-60, Cesio-137, Zinc-65) incluyendo mediciones experimentales, procesamiento de datos y conclusiones técnicas.
 
